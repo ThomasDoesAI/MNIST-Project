@@ -6,8 +6,8 @@ This project implements a neural network to classify handwritten digits from the
 
 ```bash
 # Clone the repository
-git clone https://github.com/ThomasDoesAI/MNIST_Project.git
-cd MNIST_Project
+git clone https://github.com/ThomasDoesAI/MNIST-Project.git
+cd "MNIST Project"
 
 # Create a virtual environment
 python -m venv venv
