@@ -15,3 +15,6 @@ env/
 
 # VS Code Settings
 .vscode/
+
+# data folder
+data/
