@@ -5,8 +5,8 @@ from data_loading import load_mnist_data
 from models import MNISTModel
 
 
-def train_model(model, train_loader, epochs=20, learning_rate=0.001):
-    optomizer = optim.Adam(model.parameters(), lr=learning_rate)
+def train_model(model, train_loader, epochs=20, learning_rate=0.001, weight_decay=1e-4):
+    optomizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
     for epoch in range(epochs):
         model.train()
         for batch_idx, (data, target) in enumerate(train_loader):
