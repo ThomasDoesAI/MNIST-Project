@@ -17,16 +17,16 @@ This project is a web-based application that allows users to draw digits on a ca
 - HTML/CSS/JavaScript
 
 ## Project Structure
-├── app.py
-├── data_loading.py
-├── models.py
-├── templates
-│   └── index.html
-├── static
-│   ├── style.css
-│   └── script.js
-├── requirements.txt
-└── README.md
+├── app.py<br>
+├── data_loading.py<br>
+├── models.py<br>
+├── templates<br>
+│   └── index.html<br>
+├── static<br>
+│   ├── style.css<br>
+│   └── script.js<br>
+├── requirements.txt<br>
+└── README.md<br>
 ## Setup Instructions
 
 ### Prerequisites
