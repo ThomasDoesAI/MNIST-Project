@@ -59,12 +59,18 @@ This project is a web-based application that allows users to draw digits on a ca
    python train_model.py
    ```
 
-2. **Run the Flask Application:**
+2. **Evaluate the Model:**
+    If you want to evaluate the model, you can use the evaluation script.
+    ```bash
+    python evaluation.py
+    ```
+
+3. **Run the Flask Application:**
     ```bash
     python app.py
     ```
 
-3. Open your web browser and navigate to `http://127.0.0.1:5000/` to use the digit recognizer.
+4. Open your web browser and navigate to `http://127.0.0.1:5000/` to use the digit recognizer.
 
 ## File Descriptions
 
