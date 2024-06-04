@@ -56,7 +56,7 @@ This project is a web-based application that allows users to draw digits on a ca
 1. **Train the Model (if needed):**
    If you haven't already trained the model or want to retrain it, you can use the training script. 
    ```bash
-   python train_model.py
+   python training.py
    ```
 
 2. **Evaluate the Model:**
