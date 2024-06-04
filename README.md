@@ -51,15 +51,10 @@ This project is a web-based application that allows users to draw digits on a ca
     pip install -r requirements.txt
     ```
 
-4. Download the MNIST dataset:
-    ```bash
-    python data_loading.py
-    ```
-
 ## Usage
 
 1. **Train the Model (if needed):**
-   If you haven't already trained the model or want to retrain it, you can use the training script. Ensure `data_loading.py` is set up to load the MNIST dataset correctly.
+   If you haven't already trained the model or want to retrain it, you can use the training script. 
    ```bash
    python train_model.py
    ```
