@@ -36,8 +36,8 @@ This project is a web-based application that allows users to draw digits on a ca
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mnist-digit-recognizer.git
-    cd mnist-digit-recognizer
+    git clone https://github.com/ThomasDoesAI/MNIST-Project.git
+    cd MNIST-Project
     ```
 
 2. Create a virtual environment (optional but recommended):
