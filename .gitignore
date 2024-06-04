@@ -9,6 +9,8 @@ venv/
 env/
 .env/
 .venv/
+mnist_env/
+.mnist_env/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
