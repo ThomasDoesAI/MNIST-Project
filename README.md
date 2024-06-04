@@ -76,6 +76,8 @@ This project is a web-based application that allows users to draw digits on a ca
 
 - **app.py:** The main Flask application file that handles web requests, processes images, and serves predictions.
 - **data_loading.py:** Contains functions to download and load the MNIST dataset.
+- **training.py:** Script for training the CNN model using the MNIST dataset.
+- **evaluation.py:** Script for evaluating the performance of the trained model using the MNIST test dataset.
 - **models.py:** Defines the CNN model architecture for digit recognition.
 - **templates/index.html:** HTML template for the web interface.
 - **static/style.css:** CSS file for styling the web interface.
